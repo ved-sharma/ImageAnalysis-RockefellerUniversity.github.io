@@ -29,7 +29,6 @@ Title: "Image segmentation"
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: 506 Greenberg Building (CRC), 2-3 pm
 
-Following topics were discussed:
 - went over the phase contrast microspoy images from one of our users and discussed the limits of classical segmentation techniques and the suitability of deep learning methods, such as [Cellpose](https://www.cellpose.org/), for chanllenging segmentation problems.
 - discussed how sometimes processing raw images with classical filters (gaussian, edge detection etc.) before feeding them into deep learning pipeline produces better restults, than using the raw images.
 - discussed how to train a custom model in Cellpose on user's data, for the case where the built-in Cellpose models were not good enough.
@@ -40,8 +39,7 @@ Following topics were discussed:
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: A Level Training/Classrom, Welch Hall, 2-3 pm
 
-Following topics were discussed:
-- A user presetned his pipeline for nuclei segmentation and colocalization of IF and FISH spots using Fiji plugin called [ComDet](https://imagej.net/plugins/spots-colocalization-comdet).
+- Discueed a pipeline I worked out for a user for nuclei segmentation using Cellpose and colocalization of IF and FISH spots inside nuclei using Fiji plugin called [ComDet](https://imagej.net/plugins/spots-colocalization-comdet).
 - Batch process a folder full of images using Cellpose by running a Python script in Jupyter notebook
 - Batch processing options in ImageJ/Fiji
 - CellProfiler pipeline for batch processing
