@@ -35,3 +35,13 @@ Following topics were discussed:
 - discussed how to train a custom model in Cellpose on user's data, for the case where the built-in Cellpose models were not good enough.
 - demonstrated the use to Cellpose on another user's fluorescence microcopy images, where cells were clustering together. Cellpose did an excellent job of identifing cells in not only areas where there were fewer cells, but also in areas where cells were clustering together.
 - demonstrated how to do 3D segmentation in Cellpose and then export the label image into Imaris for visualization and further analysis (e.g. filtering, cell/nuclei counting and other cellular measurements) 
+
+### 11/17/2022 meeting minutes
+Presenter: Ved Sharma, BIRC, The Rockefeller University  
+Location/Time: A Level Training/Classrom, Welch Hall, 2-3 pm
+
+Following topics were discussed:
+- A user presetned his pipeline for nuclei segmentation and colocalization of IF and FISH spots using Fiji plugin called [ComDet](https://imagej.net/plugins/spots-colocalization-comdet).
+- To be completed...
+- 
+
