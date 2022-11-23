@@ -42,6 +42,9 @@ Location/Time: A Level Training/Classrom, Welch Hall, 2-3 pm
 
 Following topics were discussed:
 - A user presetned his pipeline for nuclei segmentation and colocalization of IF and FISH spots using Fiji plugin called [ComDet](https://imagej.net/plugins/spots-colocalization-comdet).
-- To be completed...
-- 
+- Batch process a folder full of images using Cellpose by running a Python script in Jupyter notebook
+- Batch processing options in ImageJ/Fiji
+- CellProfiler pipeline for batch processing
+- Discussed literature on [Cell Painting](https://www.nature.com/articles/nprot.2016.105) and how CellProfiler could be used to process high-content screening data
+
 
