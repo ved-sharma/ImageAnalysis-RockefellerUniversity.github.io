@@ -3,7 +3,7 @@ title: "Home"
 layout: page
 ---
 
-We, at the [Bio-Imaging Resource Center](https://www.rockefeller.edu/bioimaging/), provide a variety of image analysis resources/training to our users:
+The [Bio-Imaging Resource Center](https://www.rockefeller.edu/bioimaging/), provides a variety of image analysis resources/training to our users:
 1. One-on-one user imaging data discussion, where we suggest the best software/method/pipeline for image analysis
 2. Writing of custom image analysis scripts, pipelines, batch processing
 3. Regular image analysis seminars and workshops
