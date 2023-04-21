@@ -45,4 +45,11 @@ Location/Time: A Level Training/Classrom, Welch Hall, 2-3 pm
 - CellProfiler pipeline for batch processing
 - Discussed literature on [Cell Painting](https://www.nature.com/articles/nprot.2016.105) and how CellProfiler could be used to process high-content screening data
 
+### 3/29/2023 meeting minutes
+Title: "3D segmentation using Deep Learning"  
+Presenter: Ved Sharma, BIRC, The Rockefeller University  
+Location/Time: 506 Greenberg Building (CRC), 2-3 pm
 
+- went over 3D segmentation tools in Fiji
+- Showed some user examples of 3D segmentation using StarDist and Cellpose
+- 
