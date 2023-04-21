@@ -50,6 +50,7 @@ Title: "3D segmentation using Deep Learning"
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: 506 Greenberg Building (CRC), 2-3 pm
 
-- went over 3D segmentation tools in Fiji
+- Spoke about checking the Z-stack voxel size and viewing it along all dimensions (XY, YZ, XZ) using orthogonal views or reslicing, before proceeding with 3D segmentation
+- Discussed 3D segmentation tools availbale in Fiji - 3D 
 - Showed some user examples of 3D segmentation using StarDist and Cellpose
 - 
