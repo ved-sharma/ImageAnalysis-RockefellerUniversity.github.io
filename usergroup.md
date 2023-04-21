@@ -53,5 +53,4 @@ Location/Time: 506 Greenberg Building (CRC), 2-3 pm
 - Spoke about checking the Z-stack voxel size and viewing it along all dimensions (XY, YZ, XZ) using orthogonal views or reslicing, before proceeding with 3D segmentation
 - Discussed a few 3D segmentation tools availbale in Fiji - [3D Objects Counter](https://imagej.net/plugins/3d-objects-counter) and [3D ROI Manager](https://imagej.net/imagej-wiki-static/3D_ImageJ_Suite), and their limitations
 - Talked about 3D segmentation using Imaris and its limitations
-- Showed some user examples of 3D segmentation using StarDist and Cellpose
-- 
+- Discussed a few user examples of 3D segmentation (Orientia bacteria, neurons in zebrafish brain and glomeruli in ant brain) using deep learning methods - StarDist and Cellpose
