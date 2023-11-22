@@ -16,6 +16,16 @@ Title: "Multiplexed image analysis using QuPath and deep learning tools"
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: 506 Greenberg Building (CRC), 3-4 pm  
 
+### 3/29/2023 meeting minutes
+Title: "3D segmentation using Deep Learning"  
+Presenter: Ved Sharma, BIRC, The Rockefeller University  
+Location/Time: 506 Greenberg Building (CRC), 2-3 pm
+
+- Spoke about checking the Z-stack voxel size and viewing it along all dimensions (XY, YZ, XZ) using orthogonal views or reslicing, before proceeding with 3D segmentation
+- Discussed a few 3D segmentation tools availbale in Fiji - [3D Objects Counter](https://imagej.net/plugins/3d-objects-counter) and [3D ROI Manager](https://imagej.net/imagej-wiki-static/3D_ImageJ_Suite), and their limitations
+- Talked about 3D segmentation using commercial software - [Imaris](https://imaris.oxinst.com/) and its deep learning limitations
+- Discussed a few user examples of 3D segmentation (Orientia bacteria, neurons in zebrafish brain and glomeruli in ant brain) using open-source deep learning methods - [StarDist](https://github.com/stardist/stardist) and [Cellpose](https://github.com/MouseLand/cellpose)  
+
 ### 6/23/2022 meeting minutes
 Title: "How do I do “X” in ImageJ/Fiji?"  
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
