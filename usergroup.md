@@ -11,10 +11,10 @@ Please contact [Ved Sharma](mailto:vsharma01@rockefeller.edu) at the [Bio-Imagin
 
 ## User Group Meetings
 
-### 10/11/2023 meeting minutes
-Title: "Multiplexed image analysis using QuPath and deep learning tools"
-Presenter: Ved Sharma, BIRC, The Rockefeller University
-Location/Time: 506 Greenberg Building (CRC), 3-4 pm
+### 10/11/2023 meeting minutes  
+Title: "Multiplexed image analysis using QuPath and deep learning tools"  
+Presenter: Ved Sharma, BIRC, The Rockefeller University  
+Location/Time: 506 Greenberg Building (CRC), 3-4 pm  
 
 ### 6/23/2022 meeting minutes
 Title: "How do I do “X” in ImageJ/Fiji?"  
