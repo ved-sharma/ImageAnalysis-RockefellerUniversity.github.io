@@ -12,14 +12,25 @@ Please contact [Ved Sharma](mailto:vsharma01@rockefeller.edu) at the [Bio-Imagin
 ## User Group Meetings
 
 ### 5/23/2024 meeting  
-Title: "3D segmentation using Deep Learning"  
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
-Location/Time: 506 Greenberg Building (CRC), 2-3 pm
+Location/Time: 406 Greenberg Building (CRC), 2-3 pm  
 
-- Spoke about checking the Z-stack voxel size and viewing it along all dimensions (XY, YZ, XZ) using orthogonal views or reslicing, before proceeding with 3D segmentation
+Based on the user survery results during the registation, the top two topics were discussed in this meeting:
+1. **How to use ImageJ/Fiji more effectively**  
+   Discussed different ImageJ/Fiji features for the efficient navigation and working with ROIs and multiple images simultaneously:
+   - Search bar (e.g. Split channels)
+   - Shortcuts: in-built and custom (often used commands, e.g. save as TIFF)
+   - [Action Bar](https://imagej.net/plugins/action-bar) plugin
+   - Control panel (demo w/ LUTs)
+   - Right click options
+   - Synchronize Windows, Tile
+   - Moving ROIs around using Synchronize Windows, Restore Selection and ROI Manager
+2. **Cell/particle segmentation and counting**  
+    - Discussed a user project on 3D segmentation of nuclei and coutning of colocalized and non-colocalized red and green particles inside and outside the nucleus
+    - A custom image and data analysis pipeline was described, which was developed using a combination of commerical and open-source software: Huygens, Fiji, Cellpose, Imaris, Excel, GraphPad Prism  
 
-### 10/11/2023   
-Title: "Multiplexed image analysis using QuPath and deep learning tools"  
+### 10/11/2023 meeting  
+Title: "Multiplexed image analysis using [QuPath](https://qupath.github.io/) and deep learning tools"  
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: 506 Greenberg Building (CRC), 3-4 pm  
 
