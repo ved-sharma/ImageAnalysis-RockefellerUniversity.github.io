@@ -7,16 +7,23 @@ layout: page
 Image analysis user group consists of Rockefeller University researchers who are interested in sharing knowledge and learning from each other.  
 We meet regularly to discuss the latest image analysis methods, pipelines, softwares or a new paper.
 
-Please contact [Ved Sharma](mailto:vsharma01@rockefeller.edu) at the [Bio-Imaging Resource Center](https://www.rockefeller.edu/bioimaging/), if you want to join the group.
+Please contact [Ved Sharma](mailto:vsharma01@rockefeller.edu) at the [Bio-Imaging Resource Center](https://www.rockefeller.edu/bioimaging/), for more details.
 
 ## User Group Meetings
 
-### 10/11/2023 meeting minutes  
+### 5/23/2024 meeting  
+Title: "3D segmentation using Deep Learning"  
+Presenter: Ved Sharma, BIRC, The Rockefeller University  
+Location/Time: 506 Greenberg Building (CRC), 2-3 pm
+
+- Spoke about checking the Z-stack voxel size and viewing it along all dimensions (XY, YZ, XZ) using orthogonal views or reslicing, before proceeding with 3D segmentation
+
+### 10/11/2023   
 Title: "Multiplexed image analysis using QuPath and deep learning tools"  
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: 506 Greenberg Building (CRC), 3-4 pm  
 
-### 3/29/2023 meeting minutes
+### 3/29/2023 meeting
 Title: "3D segmentation using Deep Learning"  
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: 506 Greenberg Building (CRC), 2-3 pm
@@ -26,7 +33,7 @@ Location/Time: 506 Greenberg Building (CRC), 2-3 pm
 - Talked about 3D segmentation using commercial software - [Imaris](https://imaris.oxinst.com/) and its deep learning limitations
 - Discussed a few user examples of 3D segmentation (Orientia bacteria, neurons in zebrafish brain and glomeruli in ant brain) using open-source deep learning methods - [StarDist](https://github.com/stardist/stardist) and [Cellpose](https://github.com/MouseLand/cellpose)  
 
-### 11/17/2022 meeting minutes
+### 11/17/2022 meeting
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: A Level Training/Classrom, Welch Hall, 2-3 pm
 
@@ -36,7 +43,7 @@ Location/Time: A Level Training/Classrom, Welch Hall, 2-3 pm
 - CellProfiler pipeline for batch processing
 - Discussed literature on [Cell Painting](https://www.nature.com/articles/nprot.2016.105) and how CellProfiler could be used to process high-content screening data  
 
-### 9/8/2022 meeting minutes
+### 9/8/2022 meeting
 Title: "Image segmentation"  
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: 506 Greenberg Building (CRC), 2-3 pm
@@ -47,7 +54,7 @@ Location/Time: 506 Greenberg Building (CRC), 2-3 pm
 - demonstrated the use to Cellpose on another user's fluorescence microcopy images, where cells were clustering together. Cellpose did an excellent job of identifing cells in not only areas where there were fewer cells, but also in areas where cells were clustering together.
 - demonstrated how to do 3D segmentation in Cellpose and then export the label image into Imaris for visualization and further analysis (e.g. filtering, cell/nuclei counting and other cellular measurements) 
 
-### 6/23/2022 meeting minutes
+### 6/23/2022 meeting
 Title: "How do I do “X” in ImageJ/Fiji?"  
 Presenter: Ved Sharma, BIRC, The Rockefeller University  
 Location/Time: 506 Greenberg Building (CRC), 2-3 pm
