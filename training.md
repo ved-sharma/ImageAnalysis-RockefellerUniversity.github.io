@@ -6,7 +6,7 @@ layout: page
 
 ---
 ## Seminar
-We organized our first image analysis seminar and a follow-up workshop on April 6th, 2022. 
+We organized an image analysis seminar and a follow-up workshop on April 6th, 2022. 
 
 ![seminar announcement](/seminar_workkshop/Seminar_flyer.png)
 
